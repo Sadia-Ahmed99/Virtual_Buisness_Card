@@ -1,0 +1,39 @@
+.vertical {
+    border-left: 1px solid grey;
+    height: 55px;
+    position:absolute;
+    left: 5%;
+  }
+  
+  .name {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+  }
+  
+  .bio {
+    padding-left:5%;
+    padding-top: 3%;
+    padding-right: 5%
+    p.outset {border-style: outset;}
+
+    
+  }
+  
+  
+  .links {
+    padding-left:5%;
+    padding-right: 5%
+  }
+  
+  
+  .btn-label {position: relative;left: -12px;display: inline-block;padding: 6px 12px;background: rgba(0,0,0,0.15);border-radius: 3px 0 0 3px;}
+  .btn-labeled {padding-top: 0;padding-bottom: 0;}
+  .btn { margin-bottom:10px; }
+
+  #image {
+      height: 600px;
+      width: 500px;
+      padding-left:5%;
+      padding-right:5%
+  }
